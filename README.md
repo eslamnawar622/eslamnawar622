@@ -15,35 +15,79 @@ ROS2 · AI · Model-Based Design · Embedded Systems
 
 🛠️ Tech Stack
 
-AI & Computer Vision:
+AI & Computer Vision
 
-Robotics, Control & Embedded:
+Robotics, Control & Embedded
 
-Web & Tools:
+Web & Tools
 
-🚀 Featured Projects
-Project	Description	Tech
-AI Attendance System	Real-time face recognition with NVIDIA CUDA acceleration, personalized voice-greeting engine, and automated Excel/CSV logging	Python, OpenCV, Dlib, CUDA
-V-SLAM AI Proctoring System	8-node ROS2 Jazzy monitoring system to detect mobile phones and camera tampering, with depth-estimation for student proximity	ROS2, OpenCV, V-SLAM
-Face-Controlled Humanoid Robot	Wheeled robot controlled by real-time head-pose estimation (Yaw/Pitch) mapping facial orientation to motion commands	Python, OpenCV, Embedded C
-Bipedal Robot RL	Autonomous bipedal agent trained in Simulink using Reinforcement Learning for stable walking and balance	MATLAB, Simulink, RL
-Simulink-ROS Integration	Bi-directional communication framework between Simulink and ROS for real-time model updates and rapid control prototyping	MATLAB, ROS, Simulink
-Smart Elevator Control	Multi-floor elevator logic in Flowcode with Soft-Stopping algorithm for smooth deceleration and safety	Flowcode, Embedded C
-Mechatronics Portal	Web-based submission portal for Alexandria University with auto-playing welcome video and image compression	HTML, CSS, JS
+🚀 Featured Projects by Domain
+🤖 AI & Computer Vision
+
+AI Attendance System
+
+    Real-time face recognition using Python, OpenCV, Dlib with NVIDIA CUDA acceleration.
+    Personalized voice-greeting engine (Custom & Alexa-style).
+    Automated attendance logging to Excel/CSV.
+    Tags: Python OpenCV Dlib CUDA
+
+V-SLAM AI Proctoring System
+
+    8-node ROS2 Jazzy monitoring system to detect prohibited items (mobile phones) and camera tampering.
+    Depth-estimation algorithms to monitor student proximity to the camera.
+    Tags: ROS2 OpenCV V-SLAM
+
+Face-Controlled Humanoid Robot
+
+    Wheeled robot controlled by real-time Head-Pose Estimation (Yaw/Pitch).
+    Maps facial orientation to motion commands instantly.
+    Tags: Python OpenCV Embedded C
+
+⚡ Robotics, Control & Embedded Systems
+
+Bipedal Robot Reinforcement Learning
+
+    Trained an autonomous bipedal agent in Simulink using Reinforcement Learning to achieve stable walking and balance.
+    Tags: MATLAB Simulink RL
+
+Simulink-ROS Integration Framework
+
+    Created a bi-directional communication link between Simulink and ROS for real-time model updates and rapid control prototyping.
+    Tags: MATLAB ROS Simulink
+
+Smart Elevator Control System
+
+    Programmed multi-floor logic using Flowcode with a Soft-Stopping algorithm for smooth deceleration and safety.
+    Tags: Flowcode Embedded C
+
+🌐 Web & Productivity
+
+Mechatronics Portal
+
+    Web-based submission portal for Alexandria University students.
+    Auto-playing YouTube welcome video, image compression, and real-time progress tracking.
+    Tags: HTML CSS JavaScript
+
 🎓 Education & Certifications
+📘 Education
 
-    B.Sc. Electrical Power & Machines Engineering — Alexandria University (Oct 2022 – Present), GPA: 3.46
-    DEPI — Digital Egypt Pioneers Initiative | Software Testing Track (STLC, SDLC, Java, Bug Report, Test Cases) (2025 – 2026)
-    MathWorks Online Awareness Campaign – Automotive Learning Resources (2024)
+B.Sc. Electrical Power & Machines Engineering
 
+    Alexandria University | Oct 2022 – Present
+    GPA: 3.46
+
+📜 Certifications & Training
+Program	Track / Details	Year
+DEPI — Digital Egypt Pioneers Initiative	Software Testing: STLC, SDLC, Java, Bug Report, Test Cases	2025 – 2026
+MathWorks Online Awareness Campaign	Automotive Learning Resources	2024
 🏛️ Student Activities
 
 Project Manager @ IEEE SSCS AUSC — Engineering Journeys & IEEE YouTube Channel
 
-    🌍 Hosted industry experts from Amazon UK, ABB, and Schneider Electric for technical webinars
-    ⚡ Managed sessions on Power Electronics, Model-Based Design, and Industrial Automation
-    🎓 Organized "Masters in Europe" session with experts from Finland to guide students on postgraduate paths
-    🤝 Collaborated with ITI & NTI for professional training and the "Senior Before Graduation" initiative
+    🌍 Hosted industry experts from Amazon UK, ABB, and Schneider Electric for technical webinars.
+    ⚡ Managed sessions on Power Electronics, Model-Based Design, and Industrial Automation.
+    🎓 Organized "Masters in Europe" session with experts from Finland to guide students on postgraduate paths.
+    🤝 Collaborated with ITI & NTI for professional training and the "Senior Before Graduation" initiative.
 
 📫 Connect With Me
 
